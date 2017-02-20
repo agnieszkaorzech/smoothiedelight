@@ -1,0 +1,28 @@
+{
+  "name": "smoothiedelight",
+  "version": "1.0.0",
+  "description": "premium food brand",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agnieszkaorzech/smoothiedelight.git"
+  },
+  "keywords": [
+    "ecofood",
+    "smoothie",
+    "fit"
+  ],
+  "author": "Agnieszka Orzech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agnieszkaorzech/smoothiedelight/issues"
+  },
+  "homepage": "https://github.com/agnieszkaorzech/smoothiedelight#readme",
+  "devDependencies": {
+    "babel-loader": "^6.3.2",
+    "webpack": "^2.2.1"
+  }
+}
